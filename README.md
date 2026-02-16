@@ -1,167 +1,145 @@
-##🏅 Paris Olympics & Past Olympic Data Dashboard
-An interactive Olympic Data Analytics Dashboard built to visualize historical and modern Olympic data including player participation, gender distribution, medals, countries, and performance trends.
-This project provides insights into both:
-🇫🇷 Paris Olympics 2024 Overview
-📊 Past Olympic Historical Data Analysis
+<h1 align="center" style="font-size:48px;">🏅 PARIS OLYMPICS & PAST OLYMPIC DATA DASHBOARD</h1>
 
-📌 Project Overview
-This dashboard analyzes Olympic datasets to provide meaningful insights such as:
+<p align="center">
+Interactive Olympic Data Analytics Dashboard for historical and modern Olympic insights
+</p>
 
-Total players participated
+---
 
-Gender distribution (Male/Female ratio)
+<h2 style="font-size:34px;">📌 PROJECT OVERVIEW</h2>
 
-Medal count by country and year
+This project presents an interactive Olympic Data Analytics Dashboard designed to analyze and visualize Olympic data including participation trends, gender distribution, medal counts, country performance, and historical comparisons.
 
-Player height & weight comparison
+The dashboard contains two major sections:
 
-Country participation statistics
+- 🇫🇷 Paris Olympics 2024 Overview  
+- 📊 Past Olympic Historical Data Analysis  
 
-Event participation trends
+---
 
-Historical medal trends over time
+<h2 style="font-size:34px;">🖥️ DASHBOARD 1: PARIS OLYMPICS 2024</h2>
 
-🖥️ Dashboard 1: Paris Olympics 2024
-🔹 Key Metrics
+<h3 style="font-size:26px;">🔹 Key Metrics</h3>
 
-Total Players Participated: 11.11K
+- Total Players Participated: **11.11K**
+- Player Date of Birth Insights
+- Interactive Filters:
+  - Player Name
+  - Player's Coach
+  - Player's Hobby
+  - Event Played
 
-Player Date of Birth insights
+<h3 style="font-size:26px;">📊 Visualizations Included</h3>
 
-Player filters by:
+✔ Top 10 Countries Participated  
+✔ Height & Weight Comparison (Male vs Female)  
+✔ Birthplace Map of Players  
+✔ Country of Player (World Map View)  
+✔ Male/Female Athlete Count  
+✔ Male/Female Ratio Pie Chart  
+✔ Participation Type (Person vs Team)  
+✔ Medal Won by Countries (Gold, Silver, Bronze)  
+✔ Event Participation by Country & Gender  
 
-Name
+---
 
-Coach
+<h2 style="font-size:34px;">🏛️ DASHBOARD 2: PAST OLYMPIC DATA</h2>
 
-Hobby
+<h3 style="font-size:26px;">🔹 Features</h3>
 
-Event
+- Year-wise Olympic Selection (1896 – Modern Era)
+- Venue Display (Example: Amsterdam)
+- Total Historical Participants: **252.57K**
 
-📊 Visualizations Included
-
-✔ Top 10 Countries Participated /n
-✔ Height & Weight comparison (Male vs Female)
-✔ Birthplace map of players
-✔ Country of player (World Map)
-✔ Male/Female athlete count
-✔ Male/Female ratio pie chart
-✔ Participation type (Person vs Team)
-✔ Medal won by countries (Bronze, Silver, Gold)
-✔ Event participation by country & gender
-
-🏛️ Dashboard 2: Past Olympic Data
-🔹 Features
-
-Year-wise Olympic selection (1896 – Modern Era)
-
-Venue display (Example: Amsterdam)
-
-Total historical participants: 252.57K
-
-📈 Medal Trend Analysis
+<h3 style="font-size:26px;">📈 Medal Trend Analysis</h3>
 
 Interactive line chart displaying:
 
-🥉 Bronze
+- 🥇 Gold
+- 🥈 Silver
+- 🥉 Bronze
+- ❌ No Medal
 
-🥈 Silver
+Example (1996 Data Snapshot):
 
-🥇 Gold
+- Bronze: 629  
+- Gold: 608  
+- Silver: 605  
+- No Medal: 11,938  
 
-❌ No Medal
+Shows clear growth in medal participation across decades.
 
-Example insight (1996):
+---
 
-Bronze: 629
+<h2 style="font-size:34px;">🛠️ TECHNOLOGIES USED</h2>
 
-Gold: 608
+- Power BI
+- Data Modeling
+- DAX Calculations
+- Data Cleaning & Transformation
+- Interactive Filters & Slicers
+- Map Visualizations
 
-Silver: 605
+---
 
-No Medal: 11,938
-
-Shows medal growth trend across decades.
-
-🛠️ Technologies Used
-
-Power BI / Data Visualization Tool
-
-Data Modeling
-
-Interactive Filters & Slicers
-
-Map Visualizations
-
-DAX Calculations
-
-Data Cleaning & Transformation
-
-📂 Dataset Insights
+<h2 style="font-size:34px;">📂 DATASET INSIGHTS</h2>
 
 The dataset includes:
 
-Athlete details
+- Athlete Details  
+- Country  
+- Gender  
+- Height & Weight  
+- Event  
+- Participation Type  
+- Medal Type  
+- Year  
+- Venue  
+- Coach Information  
 
-Country
+---
 
-Gender
+<h2 style="font-size:34px;">🎯 KEY INSIGHTS DERIVED</h2>
 
-Height & Weight
+- Participation has significantly increased over time.
+- Male and Female participation is nearly balanced.
+- USA, France, and Australia show strong participation trends.
+- "No Medal" category is significantly higher than medal categories.
+- Medal distribution steadily increased since the early 1900s.
 
-Event
+---
 
-Participation Type
+<h2 style="font-size:34px;">🚀 HOW TO USE</h2>
 
-Medal Type
+1. Download the project file.
+2. Open it in Power BI Desktop.
+3. Use filters (Year, Player, Country, etc.).
+4. Explore trends through interactive charts.
 
-Year
+---
 
-Venue
+<h2 style="font-size:34px;">📷 DASHBOARD PREVIEW</h2>
 
-Coach Information
 
-🎯 Key Insights Derived
+![Paris Olympics Dashboard](<img width="1577" height="891" alt="image" src="https://github.com/user-attachments/assets/bd93acd0-83ad-4a97-80bf-ab1a922f7839" />)
+![Past Olympic Dashboard](<img width="1576" height="883" alt="image" src="https://github.com/user-attachments/assets/57d59224-a481-4a2f-9162-b8d020acaaf3" />)
 
-Participation has significantly increased over time.
+---
 
-Male and Female participation is nearly balanced.
+<h2 style="font-size:34px;">📌 FUTURE IMPROVEMENTS</h2>
 
-USA, France, and Australia show strong participation trends.
+Add predictive medal forecasting
 
-"No Medal" category is significantly higher than medal categories.
+Athlete performance comparison tool
 
-Medal distribution has steadily increased since the 1900s.
+Live Olympic API integration
 
-🚀 How to Use
+Drill-through athlete profile pages
 
-Download the project file.
+---
 
-Open in Power BI Desktop.
+<h2 style="font-size:34px;">👨‍💻 AUTHOR</h2>
 
-Interact with slicers (Year, Player, Country, etc.).
-
-Explore trends using interactive charts.
-
-📷 Dashboard Preview
-
-(Add your dashboard screenshots here)
-
-![Paris Olympics Dashboard](images/paris_dashboard.png)
-![Past Olympic Dashboard](images/past_olympic_dashboard.png)
-
-📌 Future Improvements
-
-Add predictive analytics for medal forecasting
-
-Add athlete performance comparison tool
-
-Integrate live Olympic API (future enhancement)
-
-Add drill-through athlete profile pages
-
-👨‍💻 Author
-
-Abhay
+<b>Abhay</b>
 Data Analytics Enthusiast
 Olympic Data Visualization Project
