@@ -121,7 +121,7 @@ The dataset includes:
 <h2 style="font-size:34px;">📷 DASHBOARD PREVIEW</h2>
 
 <b>1</b>
-img width="1577" height="891" alt="image" src="https://github.com/user-attachments/assets/bd93acd0-83ad-4a97-80bf-ab1a922f7839" />
+<img width="1577" height="891" alt="image" src="https://github.com/user-attachments/assets/bd93acd0-83ad-4a97-80bf-ab1a922f7839" />
 <b>2</b>
 <img width="1576" height="883" alt="image" src="https://github.com/user-attachments/assets/57d59224-a481-4a2f-9162-b8d020acaaf3" />
 
