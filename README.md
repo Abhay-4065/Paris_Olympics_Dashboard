@@ -1,16 +1,10 @@
-# Paris_Olympics_Dashboard
-🏅 Paris Olympics & Past Olympic Data Dashboard
-
+##🏅 Paris Olympics & Past Olympic Data Dashboard
 An interactive Olympic Data Analytics Dashboard built to visualize historical and modern Olympic data including player participation, gender distribution, medals, countries, and performance trends.
-
 This project provides insights into both:
-
 🇫🇷 Paris Olympics 2024 Overview
-
 📊 Past Olympic Historical Data Analysis
 
 📌 Project Overview
-
 This dashboard analyzes Olympic datasets to provide meaningful insights such as:
 
 Total players participated
@@ -46,7 +40,7 @@ Event
 
 📊 Visualizations Included
 
-✔ Top 10 Countries Participated
+✔ Top 10 Countries Participated /n
 ✔ Height & Weight comparison (Male vs Female)
 ✔ Birthplace map of players
 ✔ Country of player (World Map)
